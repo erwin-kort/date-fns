@@ -1,0 +1,13 @@
+{
+  "name": "@erwin-kort/date-fns",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "eslintConfig": {
+    "extends": "plugin:@erwin-kort/base"
+  },
+  "devDependencies": {
+    "date-fns": "^2.29.3",
+    "eslint": "^8.30.0"
+  }
+}
